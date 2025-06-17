@@ -1,0 +1,9 @@
+if SHIELD_PILLZMOD_PRO
+
+config ZMK_KEYBOARD_NAME
+    default "pillzmod_pro"
+
+config SPI
+    default y
+    
+endif

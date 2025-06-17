@@ -1,0 +1,2 @@
+config SHIELD_PILLZMOD_PRO
+    def_bool $(shields_list_contains, pillzmod_pro)
