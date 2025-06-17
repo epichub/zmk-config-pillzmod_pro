@@ -1,6 +1,6 @@
 file_format: "1"
-id: pillzmod_pro
-name: Pillz Mod Pro
+id: pillzmodpro
+name: PillzMod Pro
 type: shield
 url: https://github.com/dcpedit/pillzmod
 requires: [pro_micro]
